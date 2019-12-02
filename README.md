@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## for live demo
 
-click here [live](https://techkanna.github.io/react_router_app) to view it in the browser.
+click here [live](https://techkanna.github.io/react_router_app/) to view it in the browser.
 
 ## Available Scripts
 
